@@ -1,5 +1,5 @@
 /*
-  CMD LINE: node translate [language to convert to]
+  CMD LINE: node translate.js [language to convert to]
 */
 
 var fs            = require('fs');
@@ -15,7 +15,7 @@ var languages     = [
 ];
 
 if(!toLanguage || languages.indexOf(toLanguage) === -1) {
-  console.log('ERROR: must pass in supported language to translate to.');
+  console.log('ERROR: must pass in supported language to translate to. (' + languages + ')');
   process.exit(1);
 }
 
