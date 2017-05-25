@@ -1,0 +1,758 @@
+{
+  "site_title": "Lucky Vitamin",
+  "learn_more": "Learn More",
+  "links": {
+    "home": "Home",
+    "menu": "Menu",
+    "stores": "Stores",
+    "cart": "Cart",
+    "account": "My Account",
+    "shop": "Shop",
+    "call": "Call Us",
+    "contact": "Contact Us",
+    "feedback": "Feedback",
+    "fullsite": "View Desktop Site",
+    "terms": "Terms of Service",
+    "privacy": "Privacy",
+    "shipping": "Shipping Information",
+    "rewards": "Lucky Rewards",
+    "service": "Customer Service",
+    "orders": "Order Information",
+    "about": "About Us"
+  },
+  "header": {
+    "nav": [{
+      "title": "$__(links.stores)",
+      "class": "stores",
+      "href": "/stores"
+    }, {
+      "title": "$__(links.cart)",
+      "count": "inside",
+      "cart": "true"
+    }]
+  },
+  "footer": {
+    "copyright": "© Copyright __year__, LuckyVitamin.com   All Rights Reserved.",
+    "phone_number": "1-888-635-0474",
+    "email_signup": {
+      "button": "Sign up",
+      "label": "Enter email for exclusive offers",
+      "already_registered": "Our records show that you have already signed up for our newsletter. Thank you. ",
+      "successfully_registered": "You have just signed up for our newsletter. Thank you."
+    },
+    "my_settings": "My Settings",
+    "save_pref": "save preferences",
+    "ship_to": "Ship My Products To",
+    "display_in": "Display Language In",
+    "settings_modal_head": "Language / Global Shipping Options",
+    "customer_service": {
+      "title": "$__(links.service)",
+      "href": "/t-customer-support",
+      "class": "service"
+    },
+    "nav": [{
+        "title": "$__(links.account)",
+        "href": "/account",
+        "class": "my-account"
+      },{
+        "title": "$__(links.orders)",
+        "href": "/OrderHistory.aspx",
+        "class": "orders"
+      }, {
+        "title": "$__(links.about)",
+        "href": "/t-about",
+        "class": "about"
+      }
+    ],
+    "nav2": [{
+        "title": "$__(links.shipping)",
+        "href": "/t-shipping",
+        "class": "shipping"
+      }, {
+        "title": "$__(links.rewards)",
+        "href": "/t-lucky-rewards",
+        "class": "rewards"
+      }
+    ],
+    "service_nav": [{
+        "title": "$__(links.privacy)",
+        "href": "/t-privacy",
+        "class":  "privacy"
+      }, {
+        "title": "$__(links.terms)",
+        "href": "/t-termsandconditions",
+        "class": "terms"
+      }
+    ]
+  },
+  "social_media": {
+    "sites": [{
+      "title": "Facebook",
+      "class": "facebook",
+      "href": "https://www.facebook.com/LuckyVitamin"
+    }, {
+      "title": "Twitter",
+      "class": "twitter",
+      "href": "https://twitter.com/LuckyVitamin"
+    }, {
+      "title": "Pinterest",
+      "class": "pinterest",
+      "href": "http://www.pinterest.com/luckyvitamin"
+    }, {
+      "title": "googleplus",
+      "class": "googleplus",
+      "href": "https://plus.google.com/+luckyvitamin/posts"
+    }, {
+      "title": "instagram",
+      "class": "instagram",
+      "href": "http://instagram.com/luckyvitamin"
+    }]
+  },
+  "forms": {
+    "required": "__symbol__ = required",
+    "add": "Add",
+    "remove": "&times",
+    "edit": "Edit",
+    "submit": "Submit",
+    "update": "Update",
+    "validation_errors": {
+      "blank": "__label__ is required.",
+      "invalid": "__label__ is invalid."
+    }
+  },
+  "categories": {
+    "select_subcategory": "Select a Subcategory",
+    "luckyvitamin_brands_category_url": "/c-14599-luckyvitamin-brands?loc=US",
+    "quick_order_text_1": "Your Quick Reorder account lists items from your past purchases.",
+    "quick_order_text_2": "Sign in and shop directly from your Quick Reorder list.",
+    "quick_order_text_3": "It's easy. In a few clicks you're done.",
+    "quick_order_text_4": "Shop faster and save time with LuckyVitamin's Quick Reorder",
+    "lucky_brands": "LuckyVitamin Brands"
+  },
+  "product": {
+    "add_to_cart": "Add to Cart",
+    "sale_price": "Sale Price",
+    "with_autoship": "with Autoship",
+    "remove_item": "Remove Item",
+    "quick_reorder": "Quick Reorder",
+    "add_to_wishlist": "+ Add to Wishlist",
+    "add_to_regimen": "+ Add to Regimen",
+    "remove_from_regimen": "Remove from Regimen",
+    "remove_from_wishlist": "Remove from Wishlist",
+    "email_me": "E-Mail Me When In Stock",
+    "availability": {
+      "in_store": "In Store",
+      "online": "Online",
+      "out_of_stock": "Out of Stock",
+      "backordered": "Backordered",
+      "in_store_only": "This product is only available in store.",
+      "online_only": "This product is only available online."
+    },
+    "description": "Description",
+    "zoom": "Tap to Zoom",
+    "quantity": "Quantity",
+    "select_option_title": "Select __option_title__",
+    "cross_sales": "Customers Also Bought",
+    "up_sales": "Save with Lucky",
+    "up_sales_cart": "Recommendations",
+    "related_searches": "Related Searches",
+    "related_products": "Related Products",
+    "sharing": {
+      "email": "Email",
+      "facebook": "Share on Facebook",
+      "googleplus": "Share on Google+",
+      "pinterest": "Share on Pinterest",
+      "tumblr": "Share on Tumblr",
+      "twitter": "Share on Twitter"
+    },
+    "share_email_1": "I think you would be interested in the",
+    "share_email_2": "Check it out here.",
+    "view_more": "View More",
+    "by": "By",
+    "view_all": "View All",
+    "you_save": "You Save",
+    "product_review": "Product Review",
+    "rating": "Rating",
+    "character_max": "1000 Characters Max",
+    "submit_review": "Submit Review",
+    "review_details": "Review Details",
+    "review_fail": "Sorry, we could not process review",
+    "select": "Select",
+    "click_to_see_sale": "Click to see sale price in cart",
+    "per_serving": "per serving",
+    "serving_size": "serving size",
+    "watch_product_review": "Watch Product Review Video",
+    "average_rating": "Average Rating",
+    "out_of_clovers": "out of 5 clovers",
+    "recommendation_count": "__recommended_count__ out of __total_review_count__ reviewers recommend this product to a friend",
+    "recommendation": "Recommendation",
+    "usually": "usually",
+    "or_more": "or More",
+    "suggested_use": "Suggested Use",
+    "warnings": "Warnings",
+    "ingredients": "Ingredients",
+    "manufacturer": "Manufacturer",
+    "read_brochure": "Click here to read a PDF brochure on this",
+    "availability": "Availability",
+    "details": "Details",
+    "too_low_to_show": "Too Low To Show",
+    "add_to_cart_to_see_price": "Add to cart to see price",
+    "guarantee": "Guarantee",
+    "rewards": "Lucky Rewards"
+  },
+  "products": {
+    "grid_view": "Grid",
+    "list_view": "List",
+    "sorts": "Sort By",
+    "filters": "Narrow Results",
+    "filters_selected": "__count__ selected",
+    "filters_clear": "Clear All Selections",
+    "pagination": {
+      "load_more": "Load More Products",
+      "previous": "prev",
+      "next": "next",
+      "page": "Page"
+    },
+    "pagination_count": "Page __current__ of __total__ (__page_count__ Results)",
+    "filter_by_keyword": "Filter By Keyword",
+    "shop_products": "Shop Products",
+    "about_brand": "About Brand",
+    "watch_video_to_learn": "Watch Video to Learn About",
+    "fastest_way": "Fastest way to reorder items you've purchased from LuckyVitamin",
+    "products_not_available": "Fastest way to reorder items you've purchased from LuckyVitamin",
+    "contact": "Contact",
+    "products": "Products",
+    "view_all_products": "View All Products",
+    "brand_specialties": "Brand Specialties",
+    "view_more_specialties": "View More Specialties",
+    "zero_results": "We Found 0 Results",
+    "go": "GO",
+    "email_when_in_stock": "e-Mail Me When Back In Stock"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "no_reviews": "This product has no reviews.",
+    "first_write": "Be the first to write one.",
+    "no_more": "Back to Top",
+    "num": "Showing __num__ of __count__ review",
+    "num_plural": "Showing __num__ of __count__ reviews",
+    "load_more": "View More",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "$__(loading)",
+    "write": "Write a Review",
+    "recommend": "I would recommend this to a friend",
+    "reviews_summary": "Reviews Summary",
+    "of_reviewers": "of reviewers",
+    "ratings_distribution": "Ratings Distribution",
+    "no_reviews": "No Reviews",
+    "recommended_by": "Recommended By",
+    "remove_all_filters": "Remove All Filters",
+    "filter_by": "Filter By"
+  },
+  "search": {
+    "button": "Search",
+    "label": "Search",
+    "no_results_title": "We lost the trail.",
+    "no_results": "No product results found for",
+    "results": "Search for \"__query__\"",
+    "did_you_mean": "Did you mean",
+    "try_again": "Try Again"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty_cart_title": "Empty Cart",
+    "empty_title": "No Items, How Unlucky!",
+    "empty_content": "Start shopping now and fill it up with great healthy goodies & fantastic savings!",
+    "checkout": "Checkout",
+    "checkout_with_google": "Checkout with Google Wallet",
+    "checkout_with_paypal": "Checkout with PayPal",
+    "continue_shopping": "$__(continue_shopping)",
+    "edit": "$__(forms.edit)",
+    "remove": "$__(forms.remove)",
+    "update": "$__(forms.update)",
+    "quantity": "Quantity",
+    "move_to_wishlist": "Move to Wishlist",
+    "promo_code": "Promotional Code",
+    "promo_code_applied": "Promo code \"__code__\" applied.",
+    "promo_code_details": "To apply a promotion code to your order, enter the code below and tap \"Apply.\" Only one promotional code may be redeemed per order.",
+    "apply": ">",
+    "order_summary": "Order Summary",
+    "rewards": "Total Lucky Rewards Points",
+    "total": "Estimated Total",
+    "true_total": "Total",
+    "total_description": "",
+    "subtotal": "Subtotal",
+    "subtotal_description": "",
+    "tax": "Tax",
+    "tax_description": "",
+    "shipping": "Shipping",
+    "shipping_description": "",
+    "calculated_in_checkout": "Calculated in Checkout",
+    "you_saved": "You Saved",
+    "promotion_alert": "Promotion Alert",
+    "were_sorry": "we're sorry",
+    "cant_be_shipped": "Some items in your shopping cart can't be shipped to __country__",
+    "restricted_product": "Restricted Product",
+    "not_eligible": "this item is not eligible for shipping to __country__ due to a country specific law.  Please remove it from your cart before you checkout.",
+    "promo_savings": "Promo Savings",
+    "qty": "qty",
+    "details": "Details",
+    "email_cart": "Email Cart",
+    "email_us": "Email Us",
+    "hassle_free": "Hassle Free Returns",
+    "email_address" : "Email Address",
+    "price": "Price"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "empty": "Your wishlist is empty.",
+    "continue_shopping": "$__(continue_shopping)",
+    "edit": "$__(forms.edit)",
+    "remove": "$__(forms.remove)",
+    "update": "$__(forms.update)",
+    "quantity": "Quantity",
+    "move_to_cart": "Move to Cart",
+    "no_items": "There are no items in your wishlist."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "continue": "Continue",
+    "checkout_as_guest": "Checkout as Guest",
+    "sign_in": "Sign In for Express Checkout",
+    "getting_data": "Retrieving Your Preferred Addresses",
+    "addresses": "Addresses",
+    "payment": "Payment",
+    "receipt": "Receipt",
+    "billing_address": "Billing Address",
+    "shipping_address": "Shipping Address",
+    "shipping_method": "Shipping Method",
+    "same_address": "Ship to billing address",
+    "same_address_shipping": "Same as shipping address",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "full_name": "Full Name",
+    "address": "Address",
+    "address_line": "Address Line __number__",
+    "country": "Country",
+    "city": "City",
+    "region": "State",
+    "postal_code": "Zip Code",
+    "apo_fpo": "APO/FPO Address?",
+    "apo_fpo_instruction": "Enter an APO or FPO ZIP Code above. You may also enter APO or FPO in the \"City\" field, and select one of the following three choices from the \"State\" menu: AA for Armed Forces of America, AE for Armed Forces Europe, AP for Armed Forces Pacific.",
+    "phone_number": "Phone Number",
+    "email": "Email Address",
+    "select_country": "Select Country",
+    "select_region": "Select State",
+    "payment_method": "Payment Method",
+    "gc_promo_code": "Promo Code / Gift Card",
+    "promo_code": "Promo Code",
+    "gift_card": "Gift Card",
+    "gift_card_details": "Use gift cards to pay for all or part of your order.",
+    "gift_card_applied": "Applied __amount__. The remaining balance on this card is __balance__.",
+    "payment_details": "Select and enter payment details",
+    "card_number": "Number",
+    "cardholder_name": "Cardholder Name",
+    "expiration_month": "Exp. Month",
+    "month" : "Month",
+    "expiration_year": "Exp. Year",
+    "year" : "Year",
+    "expiration_date": "Expiration Date",
+    "cvv": "Security Code",
+    "card_type": "Card Type",
+    "cards": {
+      "visa": "Visa",
+      "mastercard": "MasterCard",
+      "amex": "American Express",
+      "discover": "Discover Card",
+      "diners_club": "Diner's Club",
+      "jcb": "JCB"
+    },
+    "payment_methods": {
+      "cc": "Credit Card",
+      "paypal": "PayPal",
+      "paypal_continue": "Tap \"Continue\" to check out with PayPal.",
+      "google": "Google Wallet",
+      "google_continue": "Tap \"Continue\" to check out with Google Wallet."
+    },
+    "searching": "Searching...",
+    "updating": "Updating",
+    "edit_location": "Tap location to edit.",
+    "submit_order_title": "Please Submit Your Order",
+    "submit_order": "Submit Order",
+    "order_details": "Order Details",
+    "thank_you": "Thank you for your order!",
+    "receipt_message": "",
+    "order_number": "Order __order_number__",
+    "continue_shopping": "$__(continue_shopping)",
+    "secure_checkout": "Secure Checkout",
+    "safe_and_secure": "Shopping is always safe and secure.",
+    "nav": [{
+      "title": "$__(checkout.addresses)",
+      "controller": "addresses"
+    }, {
+      "title": "$__(checkout.payment)",
+      "controller": "payment"
+    }, {
+      "title": "$__(checkout.submit_order)",
+      "controller": "confirm"
+    }],
+    "email_newsletter": "Email Newsletter Subscription",
+    "optional": "(Optional)",
+    "have_a": "Have a",
+    "progress_bar": {
+      "shipping": "Shipping",
+      "payment": "Payment",
+      "review": "Review"
+    }
+  },
+  "account": {
+    "title": "My Account",
+    "welcome": "Welcome,",
+    "welcome_message": "Stay Healthy. Stay Fit. Stay Lucky!",
+    "log_in": "Log in",
+    "log_out": "Log out",
+    "login": "Email Address",
+    "password": "Password",
+    "or": "OR",
+    "passwords": "Passwords",
+    "set_new_password": "Set new password",
+    "password_reset_fail": "Failed to update your password.",
+    "password_reset_success": "Password updated.",
+    "dont_match": " do not match",
+    "forgot_password": "Forgot your password?",
+    "password_email_sent" : "Your Password Has Been Sent. Please check your e-mail.",
+    "persist": "Remember Me",
+    "logging_in": "Logging in",
+    "login_failed": "Login Failed. Please Try Again.",
+    "logged_in_as": "Logged in as __user__",
+    "create_account": "Create Account",
+    "old_password": "Current password",
+    "new_password": "New password",
+    "confirm_password": "Confirm password",
+    "change_password": "Change password",
+    "gen_new_token" : "Click here to generate a new request.",
+    "login_to_cont" : "Log in to continue.",
+    "account_updated" : "Account Updated",
+    "news": "News & Announcements",
+    "just_for_you": "Just for you!",
+    "orders_for" : "Orders For:",
+    "reward_points_awarded": "Reward Points Awarded",
+    "search_placeholder" : "Search Order #",
+    "no_orders" : "No orders found.",
+    "new_orders_wait" : "Please allow up to 15 minutes for new orders to appear here.",
+    "sorts" : "Sort By",
+    "facets" : "Show",
+    "track_your_order": "Track Your Order",
+    "track_order": "Track Order",
+    "zip_code": "Zip Code",
+    "order_number": "Order Number",
+    "click_tracking_details" : "Click here to see the details for this order.",
+    "tracking_number" : "Tracking Number:",
+    "available_gift_card_funds": "Available Gift Card Funds",
+    "add_payment" : {
+      "leading" : "Save time on your next order",
+      "trailing" : "Add a payment type"
+    },
+    "primary_card" : "Primary Card",
+    "saved_cards" :"Saved Card History",
+    "edit" : "Edit",
+    "remove" : "Remove",
+    "make_primary" : "Make Primary",
+    "new_payment_form" : "Add New Payment",
+    "new_payment" : "Add New Domestic Payment",
+    "submit_new_payment" : "New Payment Method",
+    "submit_new_edit" : "Edit Payment",
+    "payment_method" : "Payment Method",
+    "billing_address" : "Billing Address",
+    "address" : "Address",
+    "new_address_submit" : "Add a new shipping address",
+    "update_address" : "Update",
+    "add_address" : "Add New Address",
+    "shipping_address" : "Shipping Address",
+    "form_error" : "There was an error processing your request",
+    "country" : "Country",
+    "phone" : "phone",
+    "save_payment" : "Save Payment",
+    "cancel" : "Cancel",
+    "secure_area" : "Secure Area",
+    "is_required" : "is required",
+    "is_invalid" : "is invalid",
+    "use_card" : "Use your credit card",
+    "msi_update_card" : "Update Billing And Credit Card",
+    "primary_autoship" : "Primary Autoship Card",
+    "use_autoship" : "Use for Autoship",
+    "card" : {
+      "info" : "Card Info",
+      "name" : "Card Name",
+      "address" : "Billing Address"
+    },
+    "fullname" : "Name",
+    "name" : {
+      "first" : "First name",
+      "last" : "Last name"
+    },
+    "email" : "Email",
+    "email_address" : "Email Address",
+    "update_account" : "Update Account",
+    "pwd_set_error" : "Please review password fields",
+    "products": {
+      "item_num" : "Item #",
+      "price" : "Price",
+      "quantity" : "Quantity",
+      "auto_reorder" : "Auto Reorder",
+      "total" : "Total",
+      "shipping_method" : "Shipping Method",
+      "shipping_address" : "Shipping Address",
+      "product_status" : "Product Status"
+    },
+    "remember_me": "Keep me logged in",
+    "new_to_luckyvitamin": "New To LuckyVitamin?",
+    "sign_in": "Sign In",
+    "register" : "Register",
+    "nav": [
+      {
+        "title" : "Order Management",
+        "links" : [
+          {
+            "title" : "Open and Recent",
+            "href"  : "/account/orders?orders=Months_10R"
+          },
+          {
+            "title" : "In the last 6 months",
+            "href"  : "/account/orders?orders=Months_6"
+          },
+          {
+            "title" : "View all by order #",
+            "href"  : "/account/orders?sort=OrderNumber"
+          },
+          {
+            "title" : "Track Shipment",
+            "href": "/OrderHistory.aspx"
+          }
+        ]
+      },
+      {
+        "title" : "Quick Reorder",
+        "href"  : "/quick-reorder"
+      },
+      {
+        "title" : "Account Settings",
+        "links" : [
+          {
+            "title" : "Billing and Payment",
+            "href"  : "/account/payment"
+          },
+          {
+            "title" : "Account Information",
+            "href"  : "/account/details"
+          },
+          {
+            "title" : "Addresses",
+            "href"  : "/account/addresses"
+          },
+          {
+            "title" : "Manage Email Subscriptions",
+            "href"  : "/account/subscribe"
+          }
+        ]
+      },
+      {
+        "title" : "My Lucky Feature Management",
+        "links" : [
+          {
+            "title" : "Manage Stay Lucky Autoship",
+            "href"  : "/msi"
+          },
+          {
+            "title" : "My Wishlist",
+            "href"  : "/account/wishlist"
+          },
+          {
+            "title" : "My Regimen",
+            "href"  : "/account/regimen"
+          },
+          {
+            "title" : "My Rewards",
+            "href"  : "/account/rewards"
+          }
+        ]
+      },
+      {
+        "title" : "Sign Out",
+        "href"  : "/session",
+        "class" : "js-signout"
+      }
+    ],
+    "create_title": "Create your free account",
+    "create_submit": "Create Account",
+    "newsletter_desc": "LuckyVitamin.com Exclusive eNews Letter - Informative and current news and tips focused on healthy living, supplements, nutrition and wellness from industry experts.",
+    "promotions_desc": "Promotions and Announcements - Exclusive notices about special offers, promotions, new products and discounts",
+    "rewards_text": "When you accumulate __pointsLeft__ more points you will earn a gift certificate",
+    "new_to_bullet_1": "Access to special promotions and savings for members.",
+    "new_to_bullet_2": "Earn reward points on purchases and redeem them for discounts on future orders.",
+    "new_to_bullet_3": "Easily track and manage your online order.",
+    "new_to_bullet_4": "Securely store personal information for future orders.",
+    "guaranteed_safe_message": "Guaranteed Safe and Secured",
+    "encrypted_message": "All Information submitted is encrypted",
+    "change_email_address": "Change Email Address",
+    "select_state": "Select State",
+    "ship_via": "Ship Via",
+    "ship_to": "Ship To",
+    "view_details": "View Details",
+    "amount": "Amount",
+    "order_date": "Order Date",
+    "order_num": "Order #",
+    "order_tracking": "Order Tracking",
+    "account_num": "Account #",
+    "payment_type": "Payment Type",
+    "card_holder": "Card Holder",
+    "card_num": "Card #",
+    "bill_to": "Bill To",
+    "sign_in_to_get_started": "Sign in to get started",
+    "fastest_way_to_reorder": "The Fastest way to reorder items you've purchased from LuckyVitamin",
+    "zip_placeholder": "Zip/Postal Code",
+    "zip_error": "Zip/Postal Code is required",
+    "select_state_province": "select state/province",
+    "continue_shopping": "$__(continue_shopping)",
+    "regimen_no_items": "There are no items in your regimen.",
+    "first_name_required": "first name is required",
+    "last_name_required": "last name is required",
+    "email_valid": "email must be valid",
+    "password_required": "password is required",
+    "password_valid": "password between 6 and 16 characters only",
+    "password_must_match": "Passwords must match.",
+    "confirm_password": "Confirm Password",
+    "confirm_email": "Confirm Email"
+  },
+  "slide_menu": {
+    "locale": {
+      "title": "Ship To"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "headers": {
+      "features": "Features",
+      "contact": "Help & Contact Us",
+      "shop": "Shop"
+    },
+    "features": [{
+      "title": "My Account",
+      "href": "/account",
+      "class": "mylucky"
+    }, {
+      "title": "Quick Reorder",
+      "href": "/quick-reorder",
+      "class": "reorder"
+    }, {
+      "title": "Autoship",
+      "href": "/msi",
+      "class": "autoship"
+    }, {
+      "title": "Regimen",
+      "href": "/account/regimen",
+      "class": "regimen"
+    }, {
+      "title": "Wishlist",
+      "href": "/account/wishlist",
+      "class": "wishlist"
+    }, {
+      "title": "Rewards",
+      "href": "/account/rewards",
+      "class": "rewards"
+    }, {
+      "title": "LuckyBlog",
+      "href": "http://blog.luckyvitamin.com",
+      "class": "blog",
+      "target": "_blank"
+    }],
+    "contactUs": [{
+      "title": "Customer Service",
+      "href": "/t-customer-support",
+      "class": "service"
+    }, {
+      "title": "1-888-635-0474",
+      "href": "tel:18886350474",
+      "class": "phone"
+    }, {
+      "title": "Email Us",
+      "href": "/t-contact-us-form",
+      "class": "email"
+    }, {
+      "title": "Live Chat",
+      "href": "#",
+      "hrefClass": "chat-widget",
+      "hrefId": "chat-widget",
+      "class": "chat"
+    }, {
+      "title": "Professional Support",
+      "href": "/t-professional-support",
+      "class": "proSupport"
+    }, {
+      "title": "FAQs",
+      "href": "/t-faq",
+      "class": "faqs"
+    }]
+  },
+  "gift_card": {
+    "title": "Gift Card",
+    "number": "Number",
+    "balance": "Balance",
+    "expiration_date": "Expiration Date",
+    "pin": "PIN",
+    "check_balance": "Check Balance"
+  },
+  "error": {
+    "reload_page": "Reload Page",
+    "continue_shopping": "$__(continue_shopping)",
+    "fourohfour": {
+      "title": "Oops!",
+      "message1": "Looks like you have landed here by mistake",
+      "message2": "This page is no longer active"
+    },
+    "generic": {
+      "title": "Sorry!",
+      "message": "We encountered an unknown error."
+    }
+  },
+  "home": {
+    "cross_sales": "Hot Items"
+  },
+  "continue_shopping": "Continue Shopping",
+  "loading": "Loading",
+  "back_to_top": "Top",
+  "feedback": {
+    "submit_feedback": "Submit Feedback",
+    "required": "required",
+    "title": "Feedback"
+  },
+  "modal": {
+    "product_video": "Product Video",
+    "lucky_rewards": "LUCKY REWARDS",
+    "lucky_rewards_txt_1": "Shop. Earn. Save.",
+    "lucky_rewards_txt_2": "As if good health wasn't rewarding enough...",
+    "lucky_rewards_txt_3": "When you sign up for a MyLucky account, you’ll start automatically accruing LuckyReward Points for every qualifying item purchased online at LuckyVitamin.com or through our toll-free number 1-888-635-0474.",
+    "lucky_rewards_txt_4": "Keeping track of your LuckyReward points is super easy. Access your MyLucky account at any time to see just how many points you’ve racked up to date. Once you’ve earned 500 LuckyReward Points be on the lookout for a LuckyRewards gift certificate code that will be automatically delivered to you via email. Simple, no?",
+    "lucky_rewards_txt_5": "LuckyReward Gift Certificates can be used towards future LuckyVitamin.com purchases and (are you ready for this?) can totally be combined with other offers. Please note that LuckyReward gift certificate codes are valid for 60 days post-receipt.",
+    "return_policy_title": "90 DAY RETURN POLICY",
+    "return_policy_message": "We get it, you ordered something and it's not what you thought. No sweat, all products - opened or not - can be returned for any reason.  Send the items back to us within 90 days and we'll refund your money. LuckyVitamin brand products can be returned within 1 year!",
+    "email_modal_title": "Recieve e-mail notification when item is back in stock",
+    "email_modal_message_1": "The above item is currently unavailable from the manufacturer and is therefore out of stock. Please fill in the form below to receive a one time automated email alert which will confirm when this item is back in stock at LuckyVitamin.com",
+    "email_modal_message_2": "*Note: By submitting this information you will receive a one time notification alert to confirm when this item will be backin stock. You will not receive any other solicitation or notification from us regarding any promotional or other marketing information. We never rent, sell or share your email address.",
+    "view_our": "view our",
+    "privacy_policy": "privacy policy",
+    "notify_me": "notify me",
+    "item_added": "Item Added to Cart",
+    "enter_requested": "Enter Requested Information Below",
+    "friend_name": "Friend's Name",
+    "friend_email": "Friend's Email",
+    "your_name": "Your Name",
+    "your_email": "Your Email",
+    "send": "send",
+    "int_checkout_not_supported": "We are sorry but International checkout is briefly not supported on our mobile site. Please use our full site to place your order.",
+    "ok": "Ok",
+    "dont_see_your_country": "Don't see your Country?",
+    "see_other_options": "See other options"
+  }
+}
