@@ -339,7 +339,7 @@
     "region": "Staat",
     "postal_code": "Postcode",
     "apo_fpo": "APO/FPO adres?",
-    "apo_fpo_instruction": "Voer een APO of FPO postcode hierboven. U kunt ook APO of FPO invoeren in het veld "City", en selecteer een van de volgende drie opties in het menu "Staat"",
+    "apo_fpo_instruction": "Voer een APO of FPO postcode hierboven. U kunt ook APO of FPO invoeren in het veld \"City\", en selecteer een van de volgende drie opties in het menu \"Staat\"",
     "phone_number": "Telefoonnummer",
     "email": "E-mailadres",
     "select_country": "Selecteer land",

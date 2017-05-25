@@ -339,7 +339,7 @@
     "region": "Zustand",
     "postal_code": "PLZ",
     "apo_fpo": "APO/FPO Adresse?",
-    "apo_fpo_instruction": "Geben Sie eine APO oder FPO Postleitzahl oben. Sie können auch geben Sie im Feld "Ort" APO oder FPO, und wählen Sie eine der folgenden drei Optionen aus dem Menü "State"",
+    "apo_fpo_instruction": "Geben Sie eine APO oder FPO Postleitzahl oben. Sie können auch geben Sie im Feld \"Ort\" APO oder FPO, und wählen Sie eine der folgenden drei Optionen aus dem Menü \"State\"",
     "phone_number": "Telefonnummer",
     "email": "E-Mail-Adresse",
     "select_country": "Wählen Sie Land",
