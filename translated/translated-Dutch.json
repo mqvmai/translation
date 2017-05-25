@@ -1,0 +1,758 @@
+{
+  "site_title": "Lucky Vitamin",
+  "learn_more": "Learn More",
+  "links": {
+    "home": "Huis",
+    "menu": "Menu",
+    "stores": "Winkels",
+    "cart": "Winkelwagen",
+    "account": "Mijn Account",
+    "shop": "Winkel",
+    "call": "Bel ons",
+    "contact": "Neem contact op met ons",
+    "feedback": "Feedback",
+    "fullsite": "Weergave Desktop Site",
+    "terms": "Voorwaarden of Service",
+    "privacy": "Privacy",
+    "shipping": "Verzendgegevens",
+    "rewards": "Gelukkige beloningen",
+    "service": "Klantenservice",
+    "orders": "Bestelgegevens",
+    "about": "Informatie"
+  },
+  "header": {
+    "nav": [{
+      "title": "$__(links.stores)",
+      "class": "stores",
+      "href": "/stores"
+    }, {
+      "title": "$__(links.cart)",
+      "count": "inside",
+      "cart": "true"
+    }]
+  },
+  "footer": {
+    "copyright": "© Copyright __year__, LuckyVitamin.com   All Rights Reserved.",
+    "phone_number": "1-888-635-0474  ",
+    "email_signup": {
+      "button": "Aanmelden",
+      "label": "Voer e-mailadres voor exclusieve aanbiedingen",
+      "already_registered": "Uit onze gegevens blijkt dat u zich al hebt aangemeld voor onze nieuwsbrief. Dank u.",
+      "successfully_registered": "U hebt net aangemeld voor onze nieuwsbrief. Dank u."
+    },
+    "my_settings": "My Settings",
+    "save_pref": "save preferences",
+    "ship_to": "Mijn producten om te verzenden",
+    "display_in": "Display Taal In",
+    "settings_modal_head": "Taal / wereldwijd het Verzendmogelijkheden",
+    "customer_service": {
+      "title": "$__(links.service)",
+      "href": "/t-customer-support",
+      "class": "service"
+    },
+    "nav": [{
+        "title": "$__(links.account)",
+        "href": "/account",
+        "class": "my-account"
+      },{
+        "title": "$__(links.orders)",
+        "href": "/OrderHistory.aspx",
+        "class": "orders"
+      }, {
+        "title": "$__(links.about)",
+        "href": "/t-about",
+        "class": "about"
+      }
+    ],
+    "nav2": [{
+        "title": "$__(links.shipping)",
+        "href": "/t-shipping",
+        "class": "shipping"
+      }, {
+        "title": "$__(links.rewards)",
+        "href": "/t-lucky-rewards",
+        "class": "rewards"
+      }
+    ],
+    "service_nav": [{
+        "title": "$__(links.privacy)",
+        "href": "/t-privacy",
+        "class":  "privacy"
+      }, {
+        "title": "$__(links.terms)",
+        "href": "/t-termsandconditions",
+        "class": "terms"
+      }
+    ]
+  },
+  "social_media": {
+    "sites": [{
+      "title": "Facebook",
+      "class": "facebook",
+      "href": "https://www.facebook.com/LuckyVitamin"
+    }, {
+      "title": "Twitter",
+      "class": "twitter",
+      "href": "https://twitter.com/LuckyVitamin"
+    }, {
+      "title": "Pinterest",
+      "class": "pinterest",
+      "href": "http://www.pinterest.com/luckyvitamin"
+    }, {
+      "title": "googleplus",
+      "class": "googleplus",
+      "href": "https://plus.google.com/+luckyvitamin/posts"
+    }, {
+      "title": "instagram",
+      "class": "instagram",
+      "href": "http://instagram.com/luckyvitamin"
+    }]
+  },
+  "forms": {
+    "required": "__symbol__ = vereist",
+    "add": "Toevoegen",
+    "remove": "& keer",
+    "edit": "Bewerken",
+    "submit": "Opslaan",
+    "update": "Update",
+    "validation_errors": {
+      "blank": "__label__ is vereist.",
+      "invalid": "__label__ is ongeldig."
+    }
+  },
+  "categories": {
+    "select_subcategory": "Selecteereer een subcategorie",
+    "luckyvitamin_brands_category_url": "/c-14599-luckyvitamin-Brands? loc = US",
+    "quick_order_text_1": "Your Snel opnieuw ordenen account lists items from your past purchases.",
+    "quick_order_text_2": "Log in en shop rechtstreeks vanuit uw lijst snel opnieuw ordenen.",
+    "quick_order_text_3": "Het is gemakkelijk. In een paar klikken bent u klaar.",
+    "quick_order_text_4": "Winkel faster and save time with LuckyVitamin's Snel opnieuw ordenen",
+    "lucky_brands": "LuckyVitamin Brands"
+  },
+  "product": {
+    "add_to_cart": "Voeg toe aan winkelmandje",
+    "sale_price": "Verkoopprijs",
+    "with_autoship": "with Autoship",
+    "remove_item": "Item verwijderen",
+    "quick_reorder": "Snel opnieuw ordenen",
+    "add_to_wishlist": "+ Add to Verlanglijst",
+    "add_to_regimen": "+ Add to Regime",
+    "remove_from_regimen": "Verwijderen uit regime",
+    "remove_from_wishlist": "Verwijder uit wensenlijst",
+    "email_me": "E-posterijen mij wanneer op voorraad",
+    "availability": {
+      "in_store": "In de winkel",
+      "online": "Online",
+      "out_of_stock": "Niet op voorraad",
+      "backordered": "Bijbesteld",
+      "in_store_only": "Dit product is alleen beschikbaar in de winkel.",
+      "online_only": "This product is only available online."
+    },
+    "description": "Beschrijving",
+    "zoom": "Tik op uitzoomen",
+    "quantity": "Hoeveelheid",
+    "select_option_title": "Selecteer __option_title__",
+    "cross_sales": "Klanten die dit kochten, kochten ook",
+    "up_sales": "Bespaar met geluk",
+    "up_sales_cart": "Aanbevelingen",
+    "related_searches": "Related Zoekes",
+    "related_products": "Related Producten",
+    "sharing": {
+      "email": "E-mail",
+      "facebook": "Delen op Facebook",
+      "googleplus": "Delen op Google +",
+      "pinterest": "Deel op Pinterest",
+      "tumblr": "Delen op Tumblr",
+      "twitter": "Deel op Twitter"
+    },
+    "share_email_1": "I think you would be interested in the",
+    "share_email_2": "Check it out hier.",
+    "view_more": "Bekijk meer",
+    "by": "Door",
+    "view_all": "Alle bekijken",
+    "you_save": "U opslaan",
+    "product_review": "Productbespreking",
+    "rating": "Rating",
+    "character_max": "1000 Max tekens",
+    "submit_review": "Submit Review",
+    "review_Details": "Bekijk Details",
+    "review_fail": "Sorry, we could not process review",
+    "select": "Select",
+    "click_to_see_sale": "Klik om te zien van de verkoopprijs in winkelwagen",
+    "per_serving": "per portie",
+    "serving_size": "portie grootte",
+    "watch_product_review": "Bekijk Product BeoordelingVideo",
+    "average_rating": "Gemiddelde beoordeling",
+    "out_of_clovers": "uit 5 klaverblaadjes",
+    "recommendation_count": "__recommended_count__ out of __total_review_count__ reviewers recommend this product to a friend",
+    "recommendation": "Recommendation",
+    "usually": "usually",
+    "or_more": "of meer",
+    "suggested_use": "Aanbevolen gebruik",
+    "warnings": "Waarschuwingen",
+    "ingredients": "Ingrediënten",
+    "manufacturer": "Fabrikant",
+    "read_brochure": "Klik hier om te lezen een PDF-brochure hierover",
+    "availability": "Beschikbaarheid",
+    "details": "Details",
+    "too_low_to_show": "Te laag naar Toon",
+    "add_to_cart_to_see_price": "Add to cart to see price",
+    "guarantee": "Guarantee",
+    "rewards": "Lucky Beloningen"
+  },
+  "products": {
+    "grid_view": "Raster",
+    "list_view": "Lijst",
+    "sorts": "Sorteren op",
+    "filters": "Smalle resultaten",
+    "filters_selected": "__count__ geselecteerd",
+    "filters_clear": "Wissen van alle selecties",
+    "pagination": {
+      "load_more": "Meer producten laden",
+      "Vorige": "prev",
+      "volgende": "next",
+      "page": "Pagina"
+    },
+    "pagination_count": "Page __current__ of __total__ (__page_count__ Results)",
+    "filter_by_keyword": "Filteren door een zoekwoord",
+    "shop_products": "Shop Products",
+    "about_brand": "Over merk",
+    "watch_video_to_learn": "Bekijk de Video om te leren over",
+    "fastest_way": "Snelste manier om de volgorde van de items die u hebt gekocht van LuckyVitamin",
+    "products_not_available": "Fastest way to reorder items you've purchased from LuckyVitamin",
+    "contact": "Contact",
+    "products": "Products",
+    "view_all_products": "Alle producten weergeven",
+    "brand_specialties": "Brand Specialties",
+    "view_more_specialties": "Bekijk meer specialiteiten",
+    "zero_results": "0 Resultaten",
+    "go": "GAAN",
+    "email_when_in_stock": "e-Mail Me wanneer terug In voorraad"
+  },
+  "reviews": {
+    "title": "Beoordelingen",
+    "no_reviews": "This product has geen reviews.",
+    "first_write": "Wees de eerste om te schrijven een.",
+    "no_more": "Back to Boven",
+    "num": "Weergegeven",
+    "num_plural": "__Num__ van __count__ beoordelingen tonen",
+    "load_more": "View More",
+    "next": "Volgende",
+    "previous": "Previous",
+    "loading": "$__(loading)",
+    "write": "Schrijf een Review",
+    "recommend": "Ik zou dit aanbevelen aan een vriend",
+    "reviews_summary": "Samenvatting van de beoordelingen",
+    "of_reviewers": "van revisoren",
+    "ratings_distribution": "Waarderingen distributie",
+    "no_reviews": "No Reviews",
+    "recommended_by": "Recommended By",
+    "remove_all_filters": "Verwijder alle Filters",
+    "filter_by": "Filter By"
+  },
+  "search": {
+    "button": "Zoek",
+    "label": "Search",
+    "no_results_title": "We verloren de trail.",
+    "no_results": "Geen product resultaten gevonden voor",
+    "results": "Search for \"__query__\"",
+    "did_you_mean": "Bedoelt u",
+    "try_again": "&Opnieuw"
+  },
+  "cart": {
+    "title": "Uw winkelwagen",
+    "empty_cart_title": "Lege winkelwagen",
+    "empty_title": "Geen Items, hoe ongelukkig!",
+    "empty_content": "Begin nu met winkelen en vul het aan met grote gezonde goodies & fantastische besparingen!",
+    "checkout": "Kassa",
+    "checkout_with_google": "Kassa with Google Wallet",
+    "checkout_with_paypal": "Checkout with PayPal",
+    "continue_shopping": "$__(continue_shopping)",
+    "edit": "$__(forms.edit)",
+    "remove": "$__(forms.remove)",
+    "update": "$__(forms.update)",
+    "quantity": "Hoeveelheid",
+    "move_to_wishlist": "Verplaatsen naar verlanglijstje",
+    "promo_code": "Promotiecode",
+    "promo_code_applied": "Promocode \"__code__\" toegepast.",
+    "promo_code_details": "Als u wilt een promotiecode toepassen op uw bestelling, voer de onderstaande code en tik op 'Toepassen'. Slechts één promotiecode mogen ingewisseld worden per bestelling.",
+    "apply": ">",
+    "order_summary": "Overzicht van bestelling",
+    "rewards": "Totaal Lucky Beloningen Points",
+    "total": "Geschatte totaal",
+    "true_total": "Totaal",
+    "total_description": "",
+    "subtotal": "Subtotaal",
+    "subtotal_description": "",
+    "tax": "Belasting",
+    "tax_description": "",
+    "shipping": "Scheepvaart",
+    "shipping_description": "",
+    "calculated_in_checkout": "Calculated in Checkout",
+    "you_saved": "You Saved",
+    "promotion_alert": "Promotion Alert",
+    "were_sorry": "We vinden het jammer",
+    "cant_be_shipped": "Some items in your shopping cart can't be shipped to __country__",
+    "restricted_product": "Restricted Product",
+    "not_eligible": "this item is not eligible for shipping to __country__ due to a country specific law.  Please remove it from your cart before you checkout.",
+    "promo_savings": "Promo Savings",
+    "aantal": "qty",
+    "details": "Details",
+    "email_cart": "E-mail Cart",
+    "email_us": "Email ons",
+    "hassle_free": "Hassle Free Returns",
+    "email_address" : "E-mailadres",
+    "price": "Prijs"
+  },
+  "wishlist": {
+    "title": "Verlanglijst",
+    "empty": "Uw verlanglijst is leeg.",
+    "continue_shopping": "$__(continue_shopping)",
+    "edit": "$__(forms.edit)",
+    "remove": "$__(forms.remove)",
+    "update": "$__(forms.update)",
+    "quantity": "Hoeveelheid",
+    "move_to_cart": "Ga naar winkelwagen",
+    "no_items": "There are no items in your wishlist."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "continue": "Blijven",
+    "checkout_as_guest": "Afrekenen als gast",
+    "sign_in": "Log In voor Express Checkout",
+    "getting_data": "Ophalen van uw favoriete adressen",
+    "addresses": "Adressen",
+    "payment": "Betaling",
+    "receipt": "Ontvangst",
+    "billing_address": "Factuuradres",
+    "shipping_address": "Verzendadres",
+    "shipping_method": "Verzendmethode",
+    "same_address": "Verzenden naar een factuuradres",
+    "same_address_shipping": "Hetzelfde als verzendadres",
+    "first_name": "Voornaam",
+    "last_name": "Achternaam",
+    "full_name": "Volledige naam",
+    "address": "Adres",
+    "address_line": "Adres lijn __number__",
+    "country": "Land",
+    "city": "Stad",
+    "region": "Staat",
+    "postal_code": "Postcode",
+    "apo_fpo": "APO/FPO adres?",
+    "apo_fpo_instruction": "Voer een APO of FPO postcode hierboven. U kunt ook APO of FPO invoeren in het veld "City", en selecteer een van de volgende drie opties in het menu "Staat"",
+    "phone_number": "Telefoonnummer",
+    "email": "E-mailadres",
+    "select_country": "Selecteer land",
+    "select_region": "Selecteer staat",
+    "payment_method": "Betalingsmethode",
+    "gc_promo_code": "Promocode / kaartje",
+    "promo_code": "Promocode",
+    "gift_card": "Gift Card",
+    "gift_card_details": "Use gift cards to pay for all or part of your order.",
+    "gift_card_applied": "Toegepaste __bedrag__. Het resterende saldo op deze kaart is __balance__.",
+    "payment_details": "Selecteer en voer de betalingsgegevens",
+    "card_number": "Nummer",
+    "cardholder_name": "Kaarthouder naam",
+    "expiration_month": "Exp. maand",
+    "month" : "Maand",
+    "expiration_year": "Exp. jaar",
+    "year" : "Jaar",
+    "expiration_date": "Vervaldatum",
+    "cvv": "Beveiligingscode",
+    "card_type": "Kaarttype",
+    "cards": {
+      "visa": "Visum",
+      "mastercard": "MasterCard",
+      "amex": "American Express",
+      "discover": "Ontdek kaart",
+      "diners_club": "Diner's Club",
+      "jcb": "JCB"
+    },
+    "payment_methods": {
+      "cc": "Credit Card",
+      "paypal": "PayPal",
+      "paypal_continue": "Tik op \"Doorgaan\" om te controleren met PayPal.",
+      "google": "Google Wallet",
+      "google_continue": "Tik op \"Doorgaan\" om te controleren met Google Wallet."
+    },
+    "searching": "Bezig met zoeken...",
+    "updating": "Bijwerken",
+    "edit_location": "Tik op de locatie waar u wilt bewerken.",
+    "submit_order_title": "Stuur dan uw bestelling",
+    "submit_order": "Order indienen",
+    "order_details": "Orderinformatie",
+    "thank_you": "Dank u voor uw bestelling!",
+    "receipt_message": "",
+    "order_number": "Orde __order_number__",
+    "continue_shopping": "$__(continue_shopping)",
+    "secure_checkout": "Beveiligde Checkout",
+    "safe_and_secure": "Winkelen is altijd veilig en veilig.",
+    "nav": [{
+      "title": "$__(checkout.addresses)",
+      "controller": "addresses"
+    }, {
+      "title": "$__(checkout.payment)",
+      "controller": "payment"
+    }, {
+      "title": "$__(checkout.submit_order)",
+      "controller": "confirm"
+    }],
+    "email_newsletter": "E-mailabonnement op nieuwsbrief",
+    "optional": "(Optioneel)",
+    "have_a": "Hebben een",
+    "progress_bar": {
+      "shipping": "Scheepvaart",
+      "payment": "Betaling",
+      "review": "Review"
+    }
+  },
+  "account": {
+    "title": "Mijn Account",
+    "welcome": "Welkom,",
+    "welcome_message": "Gezond te blijven. Blijf Fit. Verblijf gelukkig!",
+    "log_in": "Log in",
+    "log_out": "Log out",
+    "login": "Email Address",
+    "password": "Wachtwoord",
+    "or": "OR",
+    "passwords": "Wachtwoorden",
+    "set_new_password": "Nieuw wachtwoord instellen",
+    "password_reset_fail": "Bijwerken van uw wachtwoord mislukt.",
+    "password_reset_success": "Het wachtwoord wordt bijgewerkt.",
+    "dont_match": " niet overeenkomen met",
+    "forgot_password": "Wachtwoord vergeten?",
+    "password_email_sent" : "Your Password Has Been Sent. Please check your e-mail.",
+    "persist": "Onthoud mijn gegevens",
+    "logging_in": "Inloggen",
+    "login_failed": "Login Failed. Please Try Again.",
+    "logged_in_as": "Ingelogd als __user__",
+    "create_account": "Account aanmaken",
+    "old_password": "Current password",
+    "new_password": "New password",
+    "confirm_password": "Bevestig wachtwoord",
+    "change_password": "Wachtwoord wijzigen",
+    "gen_new_token" : "Klik hier om een nieuwe aanvraag te genereren.",
+    "login_to_cont" : "Inloggen om door te gaan.",
+    "account_updated" : "Met de geactualiseerde",
+    "news": "News & Announcements",
+    "just_for_you": "Alleen voor jou!",
+    "orders_for" : "Orders For:",
+    "reward_points_awarded": "Reward Points Awarded",
+    "search_placeholder" : "Zoek bestellen #",
+    "no_orders" : "Geen orders gevonden.",
+    "new_orders_wait" : "Please allow up to 15 minutes for new orders to appear here.",
+    "sorts" : "Sort By",
+    "facets" : "Show",
+    "track_your_order": "Track Your Order",
+    "track_order": "Track Order",
+    "zip_code": "Zip Code",
+    "order_number": "Order Number",
+    "click_tracking_details" : "Klik hier om de details voor deze order te bekijken.",
+    "tracking_number" : "Volgnummer",
+    "available_gift_card_funds": "Available Gift Card Funds",
+    "add_payment" : {
+      "leading" : "Tijd besparen op uw volgende bestelling",
+      "trailing" : "Een betalingstype toevoegen"
+    },
+    "primary_card" : "Eerste kaart",
+    "saved_cards" :"Opgeslagen kaart geschiedenis",
+    "edit" : "Bewerken",
+    "remove" : "Verwijderen",
+    "make_primary" : "Primair maken",
+    "new_payment_form" : "Toevoegen van nieuwe betaling",
+    "new_payment" : "Toevoegen van nieuwe binnenlandse betaling",
+    "submit_new_payment" : "Nieuwe betalingsmethode",
+    "submit_new_edit" : "Bewerken van betaling",
+    "payment_method" : "Betalingsmethode",
+    "billing_address" : "Factuuradres",
+    "address" : "Address",
+    "new_address_submit" : "Toevoegen van een nieuwe verzendadres",
+    "update_address" : "Update",
+    "add_address" : "Nieuw adres toevoegen",
+    "shipping_address" : "Verzendadres",
+    "form_error" : "Er is een fout opgetreden bij het verwerking van uw aanvraag",
+    "country" : "Land",
+    "phone" : "phone",
+    "save_payment" : "Opslaan van betaling",
+    "cancel" : "Annuleren",
+    "secure_area" : "Beveiligde zone",
+    "is_required" : "vereist is",
+    "is_invalid" : "is ongeldig",
+    "use_card" : "Gebruik van uw credticard aan.",
+    "msi_update_card" : "Update Billing And Credit Card",
+    "primary_autoship" : "Primaire Autoship kaart",
+    "use_autoship" : "Gebruik voor Autoship",
+    "card" : {
+      "info" : "Card Info",
+      "name" : "Kaartnaam",
+      "address" : "Factuuradres"
+    },
+    "fullname" : "Naam",
+    "name" : {
+      "first" : "Voornaam",
+      "last" : "Achternaam"
+    },
+    "email" : "Email",
+    "email_address" : "Email Address",
+    "update_account" : "Account bijwerken",
+    "pwd_set_error" : "Controleer wachtwoordvelden",
+    "products": {
+      "item_num" : "Objectnummer",
+      "price" : "Price",
+      "quantity" : "Hoeveelheid",
+      "auto_reorder" : "Auto opnieuw ordenen",
+      "total" : "Total",
+      "shipping_method" : "Verzendmethode",
+      "shipping_address" : "Verzendadres",
+      "product_status" : "De Status van het product"
+    },
+    "remember_me": "Ik wil ingelogd blijven",
+    "new_to_luckyvitamin": "New To LuckyVitamin?",
+    "sign_in": "Aanmelden",
+    "register" : "Registreren",
+    "nav": [
+      {
+        "title" : "Orderbeheer",
+        "links" : [
+          {
+            "title" : "Open en recente",
+            "href"  : "/account/orders?orders=Months_10R"
+          },
+          {
+            "title" : "In de afgelopen 6 maanden",
+            "href"  : "/account/orders?orders=Months_6"
+          },
+          {
+            "title" : "Weergave alle door bestelling #",
+            "href"  : "/account/orders?sort=OrderNumber"
+          },
+          {
+            "title" : "Verzending volgen",
+            "href": "/OrderHistory.aspx"
+          }
+        ]
+      },
+      {
+        "title" : "Quick Reorder",
+        "href"  : "/quick-reorder"
+      },
+      {
+        "title" : "Accountinstellingen",
+        "links" : [
+          {
+            "title" : "Facturering en betaling",
+            "href"  : "/account/payment"
+          },
+          {
+            "title" : "Accountgegevens",
+            "href"  : "/account/details"
+          },
+          {
+            "title" : "Adressen",
+            "href"  : "/account/addresses"
+          },
+          {
+            "title" : "E-mail abonnement beherens",
+            "href"  : "/account/subscribe"
+          }
+        ]
+      },
+      {
+        "title" : "Het beheer van mijn geluk functie",
+        "links" : [
+          {
+            "title" : "Verblijf gelukkig Autoship beheren",
+            "href"  : "/msi"
+          },
+          {
+            "title" : "Mijn verlanglijstje",
+            "href"  : "/account/wishlist"
+          },
+          {
+            "title" : "Mijn regime",
+            "href"  : "/account/regimen"
+          },
+          {
+            "title" : "Mijn beloningen",
+            "href"  : "/account/rewards"
+          }
+        ]
+      },
+      {
+        "title" : "Afmelden",
+        "href"  : "/session",
+        "class" : "js-signout"
+      }
+    ],
+    "create_title": "Create your free account",
+    "create_submit": "Create Account",
+    "newsletter_desc": "LuckyVitamin.com exclusieve eNews Letter - informatief en actueel nieuws en tips gericht op gezond leven, supplementen, voeding en wellness van deskundigen uit de industrie.",
+    "promotions_desc": "Promoties en aankondigingen - exclusieve mededelingen over speciale aanbiedingen, promoties, nieuwe producten en kortingen",
+    "rewards_text": "When you accumulate __pointsLeft__ more points you will earn a gift certificate",
+    "new_to_bullet_1": "Toegang tot speciale aanbiedingen en spaar voor leden.",
+    "new_to_bullet_2": "Verdien reward-punten op aankopen en deze inwisselen voor korting op toekomstige bestellingen.",
+    "new_to_bullet_3": "Eenvoudig bijhouden en beheren van uw on line bestelling.",
+    "new_to_bullet_4": "Veilig opslaan van persoonlijke gegevens voor toekomstige orders.",
+    "guaranteed_safe_message": "Gegarandeerd veilig en beveiligd",
+    "encrypted_message": "Alle verstrekte informatie is gecodeerd",
+    "change_email_address": "E-mailadres wijzigen",
+    "select_state": "Selecteer staat",
+    "ship_via": "Verzenden Via",
+    "ship_to": "Verzenden naar",
+    "view_details": "View Details",
+    "amount": "Amount",
+    "order_date": "Order Date",
+    "order_num": "Order #",
+    "order_tracking": "Order Tracking",
+    "account_num": "Account #",
+    "payment_type": "Payment Type",
+    "card_holder": "Card Holder",
+    "card_num": "Card #",
+    "bill_to": "Bill To",
+    "sign_in_to_get_started": "Sign in to get started",
+    "fastest_way_to_reorder": "The Fastest way to reorder items you've purchased from LuckyVitamin",
+    "zip_placeholder": "Zip/Postal Code",
+    "zip_error": "ZIP-/ Postcode is vereist",
+    "select_state_province": "Selecteer staat/provincie",
+    "continue_shopping": "$__(continue_shopping)",
+    "regimen_no_items": "There are no items in your regimen.",
+    "first_name_required": "voornaam is vereist",
+    "last_name_required": "achternaam is vereist",
+    "email_valid": "email must be valid",
+    "password_required": "wachtwoord is vereist",
+    "password_valid": "wachtwoord tussen 6 en 16 alleen tekens ",
+    "password_must_match": "Passwords must match.",
+    "confirm_password": "Confirm Password",
+    "confirm_email": "Confirm Email"
+  },
+  "slide_menu": {
+    "locale": {
+      "title": "Verzenden naar"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "headers": {
+      "features": "Functies",
+      "contact": "Helpen & contact met ons op",
+      "shop": "Shop"
+    },
+    "features": [{
+      "title": "Mijn Account",
+      "href": "/account",
+      "class": "mylucky"
+    }, {
+      "title": "Quick Reorder",
+      "href": "/quick-reorder",
+      "class": "reorder"
+    }, {
+      "title": "Autoship",
+      "href": "/msi",
+      "class": "autoship"
+    }, {
+      "title": "Regime",
+      "href": "/account/regimen",
+      "class": "regimen"
+    }, {
+      "title": "Verlanglijst",
+      "href": "/account/wishlist",
+      "class": "wishlist"
+    }, {
+      "title": "Rewards",
+      "href": "/account/rewards",
+      "class": "rewards"
+    }, {
+      "title": "LuckyBlog",
+      "href": "http://blog.luckyvitamin.com",
+      "class": "blog",
+      "target": "_blank"
+    }],
+    "contactUs": [{
+      "title": "Klantenservice",
+      "href": "/t-customer-support",
+      "class": "service"
+    }, {
+      "title": "1-888-635-0474",
+      "href": "tel:18886350474",
+      "class": "phone"
+    }, {
+      "title": "Email Us",
+      "href": "/t-contact-us-form",
+      "class": "email"
+    }, {
+      "title": "Live Chat",
+      "href": "#",
+      "hrefClass": "chat-widget",
+      "hrefId": "chat-widget",
+      "class": "chat"
+    }, {
+      "title": "Professionele ondersteuning",
+      "href": "/t-professional-support",
+      "class": "proSupport"
+    }, {
+      "title": "Veelgestelde vragen",
+      "href": "/t-faq",
+      "class": "faqs"
+    }]
+  },
+  "gift_card": {
+    "title": "Gift Card",
+    "number": "Number",
+    "balance": "Saldo",
+    "expiration_date": "Vervaldatum",
+    "pin": "PIN",
+    "check_balance": "Saldo checken"
+  },
+  "error": {
+    "reload_page": "Pagina herladen",
+    "continue_shopping": "$__(continue_shopping)",
+    "fourohfour": {
+      "title": "Oops!",
+      "message1": "Looks like you have landed here by mistake",
+      "message2": "Deze pagina is niet langer actief"
+    },
+    "generic": {
+      "title": "Sorry!",
+      "message": "Er is een onbekende fout opgetreden."
+    }
+  },
+  "home": {
+    "cross_sales": "Hot Items"
+  },
+  "continue_shopping": "Doorgaan met winkelen",
+  "loading": "Laden",
+  "back_to_top": "Top",
+  "feedback": {
+    "submit_feedback": "Feedback verzenden",
+    "required": "required",
+    "title": "Feedback"
+  },
+  "modal": {
+    "product_video": "Product Video",
+    "lucky_rewards": "GELUKKIGE BELONINGEN",
+    "lucky_rewards_txt_1": "Winkel. Verdienen. Opslaan.",
+    "lucky_rewards_txt_2": "Alsof het belonen van goede gezondheid was niet genoeg...",
+    "lucky_rewards_txt_3": "Wanneer u zich aanmeldt voor een MyLucky account, u ll beginnen automatisch voortvloeiende LuckyReward punten voor elke kwalificerende object gekocht online op LuckyVitamin.com of via ons gratis nummer 1-888-635-0474. ",
+    "lucky_rewards_txt_4": "Het bijhouden van uw punten van de LuckyReward is super eenvoudig. Toegang tot uw MyLucky account op elk gewenst moment te zien net hoeveel punten u ve pijnigde up-to-date. Eenmaal u ve verdiend 500 LuckyReward punten worden op zoek naar een LuckyRewards cadeau code die via e-mail automatisch aan u zal worden geleverd. Eenvoudig, nr?",
+    "lucky_rewards_txt_5": "De certificaten van de Gift van de LuckyReward kan worden gebruikt op de weg naar toekomstige LuckyVitamin.com aankopen en (bent u klaar voor dit?) kunnen volledig worden gecombineerd met andere aanbiedingen. Houd er rekening mee dat LuckyReward cadeaubon codes zijn geldig voor 60 dagen na ontvangst.",
+    "return_policy_title": "90 DAG RETOURBELEID",
+    "return_policy_message": "We krijgen het, u iets besteld en het is wat u nadenken niet. Geen zweet, kunnen alle producten - geopend of niet - om welke reden worden geretourneerd.  Stuur de artikelen terug te sturen binnen 90 dagen en wij zullen uw geld terugbetalen. De producten van het merk van de LuckyVitamin kunnen worden teruggezonden binnen 1 jaar! ",
+    "email_modal_title": "Ontvang e-mail notificatie wanneer het artikel weer in voorraad is",
+    "email_modal_message_1": "Het bovenstaande object is momenteel niet beschikbaar zijn van de fabrikant en kan daarom niet op voorraad. Gelieve geautomatiseerd Vul het formulier hieronder om te ontvangen van een eenmalige e-mail alert dat zal bevestigen wanneer dit item is terug in voorraad aan LuckyVitamin.com",
+    "email_modal_message_2": "* Opmerking",
+    "view_our": "Bekijk onze",
+    "privacy_policy": "privacybeleid",
+    "notify_me": "Houd mij op de hoogte",
+    "item_added": "Item aan winkelwagen toegevoegd",
+    "enter_requested": "Gevraagde gegevens hieronder zelf invoeren",
+    "friend_name": "Naam van je vriend(in)",
+    "friend_email": "E-mail van vriend",
+    "your_name": "Uw naam",
+    "your_email": "Uw e-mailadres",
+    "Verzenden": "send",
+    "int_checkout_not_supported": "Het spijt ons maar internationale afhandeling wordt kort niet ondersteund op onze mobiele site. Gebruik onze volledige site om uw bestelling te plaatsen.",
+    "ok": "OK",
+    "dont_see_your_country": "Don't see your Country?",
+    "see_other_options": "See other options"
+  }
+}

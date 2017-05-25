@@ -34,7 +34,7 @@ converter(excelSheet, null, null,  function(err, data) {
       } catch(e) {};
     });
 
-    fs.writeFile('./translated-' + toLanguage + '.json', result, 'utf8', function (err) {
+    fs.writeFile('./translated/translated-' + toLanguage + '.json', result, 'utf8', function (err) {
        if (err) return console.log(err);
     });
   });

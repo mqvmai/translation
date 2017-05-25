@@ -1,0 +1,758 @@
+{
+  "site_title": "Lucky Vitamin",
+  "learn_more": "Learn More",
+  "links": {
+    "home": "Главная",
+    "menu": "Меню",
+    "stores": "Магазины",
+    "cart": "Корзина",
+    "account": "Мой счет",
+    "shop": "Магазин",
+    "call": "Позвоните нам",
+    "contact": "Свяжитесь с нами",
+    "feedback": "Обратная связь",
+    "fullsite": "Просмотр рабочего сайта",
+    "terms": "Термины of Service",
+    "privacy": "Конфиденциальность",
+    "shipping": "Информация о доставке",
+    "rewards": "Счастливый награды",
+    "service": "Обслуживание клиентов",
+    "orders": "Заказ информации",
+    "about": "О нас"
+  },
+  "header": {
+    "nav": [{
+      "title": "$__(links.stores)",
+      "class": "stores",
+      "href": "/stores"
+    }, {
+      "title": "$__(links.cart)",
+      "count": "inside",
+      "cart": "true"
+    }]
+  },
+  "footer": {
+    "copyright": "© Copyright __year__, LuckyVitamin.com   All Rights Reserved.",
+    "phone_number": "1-888-635-0474  ",
+    "email_signup": {
+      "button": "Регистрация",
+      "label": "Введите адрес электронной почты для эксклюзивные предложения",
+      "already_registered": "Наши данные показывают, что вы уже подписались на нашу рассылку. Спасибо.",
+      "successfully_registered": "Вы только что подписались на нашу рассылку. Спасибо."
+    },
+    "my_settings": "My Settings",
+    "save_pref": "save preferences",
+    "ship_to": "Корабль мои продукты",
+    "display_in": "Display Язык In",
+    "settings_modal_head": "Язык / глобальный Доставка варианты",
+    "customer_service": {
+      "title": "$__(links.service)",
+      "href": "/t-customer-support",
+      "class": "service"
+    },
+    "nav": [{
+        "title": "$__(links.account)",
+        "href": "/account",
+        "class": "my-account"
+      },{
+        "title": "$__(links.orders)",
+        "href": "/OrderHistory.aspx",
+        "class": "orders"
+      }, {
+        "title": "$__(links.about)",
+        "href": "/t-about",
+        "class": "about"
+      }
+    ],
+    "nav2": [{
+        "title": "$__(links.shipping)",
+        "href": "/t-shipping",
+        "class": "shipping"
+      }, {
+        "title": "$__(links.rewards)",
+        "href": "/t-lucky-rewards",
+        "class": "rewards"
+      }
+    ],
+    "service_nav": [{
+        "title": "$__(links.privacy)",
+        "href": "/t-privacy",
+        "class":  "privacy"
+      }, {
+        "title": "$__(links.terms)",
+        "href": "/t-termsandconditions",
+        "class": "terms"
+      }
+    ]
+  },
+  "social_media": {
+    "sites": [{
+      "title": "Facebook",
+      "class": "facebook",
+      "href": "https://www.facebook.com/LuckyVitamin"
+    }, {
+      "title": "Twitter",
+      "class": "twitter",
+      "href": "https://twitter.com/LuckyVitamin"
+    }, {
+      "title": "Pinterest",
+      "class": "pinterest",
+      "href": "http://www.pinterest.com/luckyvitamin"
+    }, {
+      "title": "googleplus",
+      "class": "googleplus",
+      "href": "https://plus.google.com/+luckyvitamin/posts"
+    }, {
+      "title": "instagram",
+      "class": "instagram",
+      "href": "http://instagram.com/luckyvitamin"
+    }]
+  },
+  "forms": {
+    "required": "__symbol__ = требуется",
+    "add": "Добавить",
+    "remove": "& раз",
+    "edit": "Редактировать",
+    "submit": "Отправить",
+    "update": "Обновление",
+    "validation_errors": {
+      "blank": "__label__ не требуется.",
+      "invalid": "__label__ является недопустимым."
+    }
+  },
+  "categories": {
+    "select_subcategory": "Выберите подкатегорию",
+    "luckyvitamin_brands_category_url": "/c-14599-luckyvitamin-Brands? loc = США",
+    "quick_order_text_1": "Your Быстрое изменение порядка account lists items from your past purchases.",
+    "quick_order_text_2": "Войдите в систему и магазин непосредственно из вашего быстро изменить порядок списка.",
+    "quick_order_text_3": "Легко. В несколько кликов вы сделали.",
+    "quick_order_text_4": "Магазин faster and save time with LuckyVitamin's Быстрое изменение порядка",
+    "lucky_brands": "LuckyVitamin Brands"
+  },
+  "product": {
+    "add_to_cart": "Добавить в корзину",
+    "sale_price": "Цена продажи",
+    "with_autoship": "with Автозаказа",
+    "remove_item": "Удалить элемент",
+    "quick_reorder": "Быстрое изменение порядка",
+    "add_to_wishlist": "+ Add to Список пожеланий",
+    "add_to_regimen": "+ Add to Режим",
+    "remove_from_regimen": "Удалить из режима",
+    "remove_from_wishlist": "Удалить из пожеланий",
+    "email_me": "Электронная почта меня, когда на складе",
+    "availability": {
+      "in_store": "В магазине",
+      "online": "Онлайн",
+      "out_of_stock": "На складе",
+      "backordered": "Освобождающиеся",
+      "in_store_only": "Этот продукт доступен только в магазине.",
+      "online_only": "This product is only available online."
+    },
+    "description": "Описание",
+    "zoom": "Нажмите, чтобы увеличить",
+    "quantity": "Количество",
+    "select_option_title": "Выбрать __option_title__",
+    "cross_sales": "Клиентов, также покупают",
+    "up_sales": "Сохранить с повезло",
+    "up_sales_cart": "Рекомендации",
+    "related_searches": "Related Поискes",
+    "related_products": "Related Продукция",
+    "sharing": {
+      "email": "Отправить по электронной почте",
+      "facebook": "Поделиться на Facebook",
+      "googleplus": "Доля на Google +",
+      "pinterest": "Доля на Pinterest",
+      "tumblr": "Доля на Tumblr",
+      "twitter": "Поделитесь на Твиттере"
+    },
+    "share_email_1": "I think you would be interested in the",
+    "share_email_2": "Проверить его здесь.",
+    "view_more": "Посмотреть больше",
+    "by": "По",
+    "view_all": "Просмотреть все",
+    "you_save": "Вы экономите",
+    "product_review": "Обзор продукта",
+    "rating": "Рейтинг",
+    "character_max": "1000 Символов макс",
+    "submit_review": "Отправить Обзор",
+    "review_детали": "Дополнительные сведения",
+    "review_fail": "Sorry, we could not process review",
+    "select": "Выберите",
+    "click_to_see_sale": "Нажмите, чтобы увидеть Отпускная цена в корзину",
+    "per_serving": "на порцию",
+    "serving_size": "Размер порции",
+    "watch_product_review": "Смотреть видео обзор продукта",
+    "average_rating": "Средний рейтинг",
+    "out_of_clovers": "из 5 клевер",
+    "recommendation_count": "__recommended_count__ out of __total_review_count__ reviewers recommend this product to a friend",
+    "recommendation": "Recommendation",
+    "usually": "usually",
+    "or_more": "или больше",
+    "suggested_use": "Рекомендации по применению",
+    "warnings": "Предупреждения",
+    "ingredients": "Ингредиенты",
+    "manufacturer": "Производитель",
+    "read_brochure": "Нажмите здесь, чтобы прочитать брошюру PDF на этом",
+    "availability": "Доступность",
+    "details": "Детали",
+    "too_low_to_show": "Слишком низкая для отображения",
+    "add_to_cart_to_see_price": "Add to cart to see price",
+    "guarantee": "Guarantee",
+    "rewards": "Lucky Награды"
+  },
+  "products": {
+    "grid_view": "Сетка",
+    "list_view": "Список",
+    "sorts": "Сортировать по",
+    "filters": "Узкие результаты",
+    "filters_selected": "__count__ выбран",
+    "filters_clear": "Очистить все выбранные элементы",
+    "pagination": {
+      "load_more": "Загрузить больше продуктов",
+      "Предыдущаяious": "prev",
+      "Следующая": "next",
+      "page": "Страница"
+    },
+    "pagination_count": "Page __current__ of __total__ (__page_count__ Results)",
+    "filter_by_keyword": "Фильтр по ключевым словам",
+    "shop_products": "Shop Products",
+    "about_brand": "О бренде",
+    "watch_video_to_learn": "Смотреть видео, чтобы узнать о",
+    "fastest_way": "Быстрый способ переупорядочить элементы вы приобрели от LuckyVitamin",
+    "products_not_available": "Fastest way to reorder items you've purchased from LuckyVitamin",
+    "contact": "Контакт",
+    "products": "Products",
+    "view_all_products": "Посмотреть все товары",
+    "brand_specialties": "Brand Specialties",
+    "view_more_specialties": "Посмотреть больше специальностей",
+    "zero_results": "Мы нашли 0 результаты",
+    "go": "ПЕРЕЙТИ",
+    "email_when_in_stock": "Электронная почта меня когда обратно на складе"
+  },
+  "reviews": {
+    "title": "Отзывы",
+    "no_reviews": "This product has нет отзывов.",
+    "first_write": "Будьте первым, чтобы написать один.",
+    "no_more": "Back to Вверх",
+    "num": "Показаны __num__ __count__ обзор",
+    "num_plural": "Показаны __num__ __count__ отзывов",
+    "load_more": "View More",
+    "next": "Следующая",
+    "previous": "Предыдущий",
+    "loading": "$__(loading)",
+    "write": "Написать отзыв",
+    "recommend": "Я бы рекомендовал это для друга",
+    "reviews_summary": "Сводка отзывов",
+    "of_reviewers": "рецензентов",
+    "ratings_distribution": "Распределение оценок",
+    "no_reviews": "No Reviews",
+    "recommended_by": "Recommended By",
+    "remove_all_filters": "Убрать все фильтры",
+    "filter_by": "Filter By"
+  },
+  "search": {
+    "button": "Поиск",
+    "label": "Search",
+    "no_results_title": "Мы потеряли след.",
+    "no_results": "Нет продукта результатов найдено для",
+    "results": "Search for \"__query__\"",
+    "did_you_mean": "Вы имели в виду",
+    "try_again": "Повторить"
+  },
+  "cart": {
+    "title": "Корзина",
+    "empty_cart_title": "Очистить корзину",
+    "empty_title": "Нет элементов, как повезло!",
+    "empty_content": "Начните делать покупки сейчас и заполнить его с большой здорового лакомства & фантастические сбережения!",
+    "checkout": "Оформить заказ",
+    "checkout_with_google": "Оформить заказ with Google Кошелек",
+    "checkout_with_paypal": "Checkout with PayPal",
+    "continue_shopping": "$__(continue_shopping)",
+    "edit": "$__(forms.edit)",
+    "remove": "$__(forms.remove)",
+    "update": "$__(forms.update)",
+    "quantity": "Количество",
+    "move_to_wishlist": "Перейти в список пожеланий",
+    "promo_code": "Промо-код",
+    "promo_code_applied": "Промо-код \"__code__\" применяется.",
+    "promo_code_details": "Чтобы применить Код промотирования для вашего заказа, введите код и нажмите «Применить». Только один промо-код может быть выкуплены за заказ.",
+    "apply": ">",
+    "order_summary": "Заказать резюме",
+    "rewards": "Итого Lucky Награды Points",
+    "total": "По оценкам всего",
+    "true_total": "Итого",
+    "total_description": "",
+    "subtotal": "Итого",
+    "subtotal_description": "",
+    "tax": "Налог",
+    "tax_description": "",
+    "shipping": "Доставка",
+    "shipping_description": "",
+    "calculated_in_checkout": "Calculated in Checkout",
+    "you_saved": "You Saved",
+    "promotion_alert": "Promotion Alert",
+    "were_sorry": "Нам жаль",
+    "cant_be_shipped": "Some items in your shopping cart can't be shipped to __country__",
+    "restricted_product": "Restricted Product",
+    "not_eligible": "this item is not eligible for shipping to __country__ due to a country specific law.  Please remove it from your cart before you checkout.",
+    "promo_savings": "Promo Savings",
+    "Кол-во": "qty",
+    "details": "Details",
+    "email_cart": "Отправить по электронной почте Cart",
+    "email_us": "Напишите нам",
+    "hassle_free": "Hassle Free Returns",
+    "email_address" : "Адрес электронной почты",
+    "price": "Цена"
+  },
+  "wishlist": {
+    "title": "Список пожеланий",
+    "empty": "Ваш вишлист пуст.",
+    "continue_shopping": "$__(continue_shopping)",
+    "edit": "$__(forms.edit)",
+    "remove": "$__(forms.remove)",
+    "update": "$__(forms.update)",
+    "quantity": "Количество",
+    "move_to_cart": "Переместить в корзину",
+    "no_items": "There are no items in your wishlist."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "continue": "Продолжить",
+    "checkout_as_guest": "Оформить в качестве гостя",
+    "sign_in": "Вход для Экспресс Оформить",
+    "getting_data": "Получение ваш предпочтительный адреса",
+    "addresses": "Адреса",
+    "payment": "Оплата",
+    "receipt": "Получение",
+    "billing_address": "Адрес для выставления счета",
+    "shipping_address": "Адрес доставки",
+    "shipping_method": "Метод доставки",
+    "same_address": "Платежный адрес доставки",
+    "same_address_shipping": "Так же, как адрес доставки",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "full_name": "Полное имя",
+    "address": "Адрес",
+    "address_line": "Адрес линия __number__",
+    "country": "Страна",
+    "city": "Город",
+    "region": "Государство",
+    "postal_code": "Почтовый индекс",
+    "apo_fpo": "APO/FPO адрес?",
+    "apo_fpo_instruction": "Введите APO или FPO почтовый индекс выше. Вы можете также ввести APO или FPO в поле «Город» и выберите один из следующих трех вариантов в меню «Состояние»",
+    "phone_number": "Номер телефона",
+    "email": "Адрес электронной почты",
+    "select_country": "Выберите страну",
+    "select_region": "Выберите состояние",
+    "payment_method": "Метод оплаты",
+    "gc_promo_code": "Промо-код / подарочные карты",
+    "promo_code": "Промо-код",
+    "gift_card": "Подарочная карта",
+    "gift_card_details": "Use gift cards to pay for all or part of your order.",
+    "gift_card_applied": "Прикладная __сумма__. Оставшийся баланс на этой карте-__balance__.",
+    "payment_details": "Выберите и введите детали оплаты",
+    "card_number": "Номер",
+    "cardholder_name": "Имя владельца карты",
+    "expiration_month": "Exp. месяц",
+    "month" : "Месяц",
+    "expiration_year": "Exp. год",
+    "year" : "Год",
+    "expiration_date": "Дата окончания срока действия",
+    "cvv": "Код безопасности",
+    "card_type": "Тип карты",
+    "cards": {
+      "visa": "Визы",
+      "mastercard": "MasterCard",
+      "amex": "Американ Экспресс",
+      "discover": "Открыть карту",
+      "diners_club": "Diner's Club",
+      "jcb": "JCB"
+    },
+    "payment_methods": {
+      "cc": "Кредитная карта",
+      "paypal": "PayPal",
+      "paypal_continue": "Нажмите \"Продолжить\", чтобы проверить с PayPal.",
+      "google": "Google Wallet",
+      "google_continue": "Нажмите \"Продолжить\", чтобы проверить с Google Кошелька."
+    },
+    "searching": "Поиск...",
+    "updating": "Обновление",
+    "edit_location": "Выберите местоположение для редактирования.",
+    "submit_order_title": "Пожалуйста, отправьте ваш заказ",
+    "submit_order": "Отправить заказ",
+    "order_details": "Детали заказа",
+    "thank_you": "Спасибо за ваш заказ!",
+    "receipt_message": "",
+    "order_number": "Заказ __order_number__",
+    "continue_shopping": "$__(continue_shopping)",
+    "secure_checkout": "Безопасное извлечение",
+    "safe_and_secure": "Шоппинг всегда спокойной и безопасной.",
+    "nav": [{
+      "title": "$__(checkout.addresses)",
+      "controller": "addresses"
+    }, {
+      "title": "$__(checkout.payment)",
+      "controller": "payment"
+    }, {
+      "title": "$__(checkout.submit_order)",
+      "controller": "confirm"
+    }],
+    "email_newsletter": "Подписка на рассылку электронной почты",
+    "optional": "(Необязательно)",
+    "have_a": "У",
+    "progress_bar": {
+      "shipping": "Доставка",
+      "payment": "Оплата",
+      "review": "Review"
+    }
+  },
+  "account": {
+    "title": "Мой счет",
+    "welcome": "Добро пожаловать,",
+    "welcome_message": "Оставаться здоровым. Оставайтесь Fit. Оставайтесь повезло!",
+    "log_in": "Log in",
+    "log_out": "Log out",
+    "login": "Email Address",
+    "password": "Пароль",
+    "or": "OR",
+    "passwords": "Пароли",
+    "set_new_password": "Установить новый пароль",
+    "password_reset_fail": "Не удалось обновить свой пароль.",
+    "password_reset_success": "Пароль обновления.",
+    "dont_match": " не совпадают",
+    "forgot_password": "Забыли пароль?",
+    "password_email_sent" : "Your Password Has Been Sent. Please check your e-mail.",
+    "persist": "Запомнить меня",
+    "logging_in": "Вход в систему",
+    "login_failed": "Логин Failed. Please Try Again.",
+    "logged_in_as": "Войти в систему как __user__",
+    "create_account": "Создать учетную запись",
+    "old_password": "Current password",
+    "new_password": "New password",
+    "confirm_password": "Подтверждение пароля",
+    "change_password": "Смена пароля",
+    "gen_new_token" : "Нажмите здесь, чтобы создать новый запрос.",
+    "login_to_cont" : "Войдите, чтобы продолжить.",
+    "account_updated" : "Обновление аккаунта",
+    "news": "News & Announcements",
+    "just_for_you": "Только для вас!",
+    "orders_for" : "Orders For:",
+    "reward_points_awarded": "Reward Points Awarded",
+    "search_placeholder" : "Поиск заказа #",
+    "no_orders" : "Заказы не найдено.",
+    "new_orders_wait" : "Please allow up to 15 minutes for new orders to appear here.",
+    "sorts" : "Sort By",
+    "facets" : "Показать",
+    "track_your_order": "Track Your Order",
+    "track_order": "Track Order",
+    "zip_code": "Zip Code",
+    "order_number": "Order Number",
+    "click_tracking_details" : "Нажмите здесь, чтобы увидеть детали для этого заказа.",
+    "tracking_number" : "Номер отслеживания",
+    "available_gift_card_funds": "Available Подарочная карта Funds",
+    "add_payment" : {
+      "leading" : "Экономия времени на ваш следующий заказ",
+      "trailing" : "Добавление типа оплаты"
+    },
+    "primary_card" : "Основной карты",
+    "saved_cards" :"Сохраненные карты История",
+    "edit" : "Редактировать",
+    "remove" : "Удалить",
+    "make_primary" : "Сделать основным",
+    "new_payment_form" : "Добавить новый платеж",
+    "new_payment" : "Добавить новый внутригосударственный платеж",
+    "submit_new_payment" : "Новый метод оплаты",
+    "submit_new_edit" : "Редактировать оплаты",
+    "payment_method" : "Метод оплаты",
+    "billing_address" : "Адрес для выставления счета",
+    "address" : "Address",
+    "new_address_submit" : "Добавить новый адрес доставки",
+    "update_address" : "Обновление",
+    "add_address" : "Добавить новый адрес",
+    "shipping_address" : "Адрес доставки",
+    "form_error" : "Произошла ошибка при обработке вашего запроса",
+    "country" : "Страна",
+    "phone" : "phone",
+    "save_payment" : "Сохранить платеж",
+    "cancel" : "Отмена",
+    "secure_area" : "Безопасный район",
+    "is_required" : "не требуется",
+    "is_invalid" : "является недопустимым",
+    "use_card" : "Использование вашей кредитной карты",
+    "msi_update_card" : "Update Billing And Credit Card",
+    "primary_autoship" : "Основная автозаказа карта",
+    "use_autoship" : "Использование для автозаказа",
+    "card" : {
+      "info" : "Информация о карте",
+      "name" : "Название карты",
+      "address" : "Адрес для выставления счета"
+    },
+    "fullname" : "Имя",
+    "name" : {
+      "first" : "Имя",
+      "last" : "Фамилия"
+    },
+    "email" : "Email",
+    "email_address" : "Email Address",
+    "update_account" : "Обновить учетную запись",
+    "pwd_set_error" : "Пожалуйста, просмотрите поля пароля",
+    "products": {
+      "item_num" : "Пункт #",
+      "price" : "Price",
+      "quantity" : "Количество",
+      "auto_reorder" : "Автоматическое изменение порядка",
+      "total" : "Total",
+      "shipping_method" : "Метод доставки",
+      "shipping_address" : "Адрес доставки",
+      "product_status" : "Статус продукта"
+    },
+    "remember_me": "Запомнить меня",
+    "new_to_luckyvitamin": "New To LuckyVitamin?",
+    "sign_in": "Войти",
+    "register" : "Зарегистрироваться",
+    "nav": [
+      {
+        "title" : "Управление заказами",
+        "links" : [
+          {
+            "title" : "Открытые и бронирование",
+            "href"  : "/account/orders?orders=Months_10R"
+          },
+          {
+            "title" : "В течение последних 6 месяцев",
+            "href"  : "/account/orders?orders=Months_6"
+          },
+          {
+            "title" : "Просмотр всех постановлением #",
+            "href"  : "/account/orders?sort=OrderNumber"
+          },
+          {
+            "title" : "Отследить груз",
+            "href": "/OrderHistory.aspx"
+          }
+        ]
+      },
+      {
+        "title" : "Quick Reorder",
+        "href"  : "/quick-reorder"
+      },
+      {
+        "title" : "Настройки учетной записи",
+        "links" : [
+          {
+            "title" : "Выставление счетов и оплата",
+            "href"  : "/account/payment"
+          },
+          {
+            "title" : "Сведения об учетной записи",
+            "href"  : "/account/details"
+          },
+          {
+            "title" : "Адреса",
+            "href"  : "/account/addresses"
+          },
+          {
+            "title" : "Управление электронной подпискиs",
+            "href"  : "/account/subscribe"
+          }
+        ]
+      },
+      {
+        "title" : "Моя счастливая особенность управления",
+        "links" : [
+          {
+            "title" : "Управление пребывания повезло автозаказа",
+            "href"  : "/msi"
+          },
+          {
+            "title" : "Мой список пожеланий",
+            "href"  : "/account/wishlist"
+          },
+          {
+            "title" : "Мой режим",
+            "href"  : "/account/regimen"
+          },
+          {
+            "title" : "Мои награды",
+            "href"  : "/account/rewards"
+          }
+        ]
+      },
+      {
+        "title" : "Выход",
+        "href"  : "/session",
+        "class" : "js-signout"
+      }
+    ],
+    "create_title": "Create your free account",
+    "create_submit": "Create Account",
+    "newsletter_desc": "LuckyVitamin.com Эксклюзив eNews письмо - информативный и текущие новости и советы сосредоточена на здоровый образ жизни, добавки, питание и велнес от экспертов отрасли.",
+    "promotions_desc": "Акции и объявления - эксклюзивные уведомления о специальных предложениях, акциях, новых продуктах и скидки",
+    "rewards_text": "When you accumulate __pointsLeft__ more points you will earn a gift certificate",
+    "new_to_bullet_1": "Доступ к специальным акциям и сбережений для членов.",
+    "new_to_bullet_2": "Заработать поощрительные очки на покупки и обменять их на скидки на будущие заказы.",
+    "new_to_bullet_3": "Легко отслеживать и управлять ваш онлайн заказ.",
+    "new_to_bullet_4": "Надежно храните личную информацию для будущих заказов.",
+    "guaranteed_safe_message": "Процедуру безопасной и обеспеченной",
+    "encrypted_message": "Вся информация, представленная шифруется",
+    "change_email_address": "Изменить адрес электронной почты",
+    "select_state": "Выберите состояние",
+    "ship_via": "Корабль через",
+    "ship_to": "Корабль",
+    "view_details": "View Details",
+    "amount": "Amount",
+    "order_date": "Order Date",
+    "order_num": "Order #",
+    "order_tracking": "Order Tracking",
+    "account_num": "Account #",
+    "payment_type": "Payment Type",
+    "card_holder": "Card Holder",
+    "card_num": "Card #",
+    "bill_to": "Bill To",
+    "sign_in_to_get_started": "Sign in to get started",
+    "fastest_way_to_reorder": "The Fastest way to reorder items you've purchased from LuckyVitamin",
+    "zip_placeholder": "ZIP/почтовый индекс",
+    "zip_error": "Почтовый код не требуется",
+    "select_state_province": "Выберите штат/провинция",
+    "continue_shopping": "$__(continue_shopping)",
+    "regimen_no_items": "There are no items in your regimen.",
+    "first_name_required": "Первое имя требуется",
+    "last_name_required": "фамилия не требуется",
+    "email_valid": "email must be valid",
+    "password_required": "требуется пароль",
+    "password_valid": "пароль и 6 16 только символы ",
+    "password_must_match": "Passwords must match.",
+    "confirm_password": "Confirm Password",
+    "confirm_email": "Confirm Email"
+  },
+  "slide_menu": {
+    "locale": {
+      "title": "Корабль"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "headers": {
+      "features": "Особенности",
+      "contact": "Помочь & свяжитесь с нами",
+      "shop": "Shop"
+    },
+    "features": [{
+      "title": "Мой счет",
+      "href": "/account",
+      "class": "mylucky"
+    }, {
+      "title": "Quick Reorder",
+      "href": "/quick-reorder",
+      "class": "reorder"
+    }, {
+      "title": "Автозаказа",
+      "href": "/msi",
+      "class": "autoship"
+    }, {
+      "title": "Режим",
+      "href": "/account/regimen",
+      "class": "regimen"
+    }, {
+      "title": "Список пожеланий",
+      "href": "/account/wishlist",
+      "class": "wishlist"
+    }, {
+      "title": "Rewards",
+      "href": "/account/rewards",
+      "class": "rewards"
+    }, {
+      "title": "LuckyBlog",
+      "href": "http://blog.luckyvitamin.com",
+      "class": "blog",
+      "target": "_blank"
+    }],
+    "contactUs": [{
+      "title": "Обслуживание клиентов",
+      "href": "/t-customer-support",
+      "class": "service"
+    }, {
+      "title": "1-888-635-0474",
+      "href": "tel:18886350474",
+      "class": "phone"
+    }, {
+      "title": "Email Us",
+      "href": "/t-contact-us-form",
+      "class": "email"
+    }, {
+      "title": "Чат",
+      "href": "#",
+      "hrefClass": "chat-widget",
+      "hrefId": "chat-widget",
+      "class": "chat"
+    }, {
+      "title": "Профессиональная поддержка",
+      "href": "/t-professional-support",
+      "class": "proSupport"
+    }, {
+      "title": "Часто задаваемые вопросы",
+      "href": "/t-faq",
+      "class": "faqs"
+    }]
+  },
+  "gift_card": {
+    "title": "Gift Card",
+    "number": "Number",
+    "balance": "Баланс",
+    "expiration_date": "Дата окончания срока действия",
+    "pin": "PIN-КОД",
+    "check_balance": "Проверить баланс"
+  },
+  "error": {
+    "reload_page": "Перезагрузить страницу",
+    "continue_shopping": "$__(continue_shopping)",
+    "fourohfour": {
+      "title": "Oops!",
+      "message1": "Looks like you have landed here by mistake",
+      "message2": "Эта страница больше не является активным"
+    },
+    "generic": {
+      "title": "Извините!",
+      "message": "Мы столкнулись с произошла неизвестная ошибка."
+    }
+  },
+  "home": {
+    "cross_sales": "Горячие элементы"
+  },
+  "continue_shopping": "Продолжить покупки",
+  "loading": "Загрузка",
+  "back_to_top": "Top",
+  "feedback": {
+    "submit_feedback": "Отправить отзыв",
+    "required": "required",
+    "title": "Feedback"
+  },
+  "modal": {
+    "product_video": "Продукт видео",
+    "lucky_rewards": "СЧАСТЛИВЫЙ НАГРАДЫ",
+    "lucky_rewards_txt_1": "Магазин. Заработайте. Сохраните.",
+    "lucky_rewards_txt_2": "Как будто крепкого здоровья не было награждение достаточно...",
+    "lucky_rewards_txt_3": "Когда вы подписываете вверх для учетной записи MyLucky, вы будете начать автоматически получаемые LuckyReward очков для каждого квалификационного элемента, приобретенные онлайн на LuckyVitamin.com или через наш бесплатный номер 1-888-635-0474. ",
+    "lucky_rewards_txt_4": "Keep track of ваши очки LuckyReward супер просто. Доступ к вашей MyLucky счета в любое время, чтобы увидеть, как раз сколько очков вы ve ломал до даты. Однажды вы ве получил 500 очков LuckyReward быть на смотровой для кода LuckyRewards подарочный сертификат, который будет автоматически доставлен Вам по электронной почте. Простой, нет?",
+    "lucky_rewards_txt_5": "LuckyReward подарочные сертификаты могут быть использованы к будущим LuckyVitamin.com покупки и (готовы ли вы для этого?), полностью может сочетаться с другими предложениями. Пожалуйста, обратите внимание, что LuckyReward подарочный сертификат коды действительны для 60 дней после получения.",
+    "return_policy_title": "90 ДЕНЬ ВОЗВРАЩЕНИЯ ПОЛИТИКИ",
+    "return_policy_message": "Мы получаем его, вы заказали что-то и это не то, что вы думали. Нет пота, - открыт или нет - все товары могут быть возвращены по любой причине.  Отправить элементы обратно к нам в течение 90 дней и мы вернем Ваши деньги. LuckyVitamin бренд Продукция может быть возвращена в течение 1 год! ",
+    "email_modal_title": "Получать уведомления по электронной почте когда элемент обратно в наличии",
+    "email_modal_message_1": "Этот пункт в настоящее время недоступен от производителя и поэтому складе. Пожалуйста, заполните форму ниже, чтобы получить один раз автоматизированной электронной почте оповещения, которая будет подтвердить, когда этот элемент обратно на складе в LuckyVitamin.com",
+    "email_modal_message_2": "* Примечание",
+    "view_our": "Просмотр нашего",
+    "privacy_policy": "Политика конфиденциальности",
+    "notify_me": "Сообщите мне",
+    "item_added": "Элемент добавлен в корзину",
+    "enter_requested": "Введите запрашиваемую информацию ниже",
+    "friend_name": "Имя друга",
+    "friend_email": "Адрес электронной почты друга",
+    "your_name": "Ваше имя",
+    "your_email": "Ваш электронный адрес",
+    "Отправить": "send",
+    "int_checkout_not_supported": "Мы огорченны но кратко международная проверка не поддерживается на наш мобильный сайт. Пожалуйста, используйте наш полный сайт для размещения вашего заказа.",
+    "ok": "Хорошо",
+    "dont_see_your_country": "Don't see your Country?",
+    "see_other_options": "See other options"
+  }
+}
